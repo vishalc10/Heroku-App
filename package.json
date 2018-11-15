@@ -1,0 +1,19 @@
+{
+  "name": "herokuobust",
+  "version": "1.0.1",
+  "description": "this is a heroku bound project",
+  "main": "herokuOrBust.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "curl": "^0.1.4",
+    "express": "^4.16.4"
+  },
+  "engines": {
+    "node": "10.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vishal",
+  "license": "ISC"
+}
